@@ -64,7 +64,7 @@ It is designed to help stakeholders quickly identify sales drivers, high-perform
 
 ## 📂 Repository Structure
 
-```text
+```BlinkIT_Dashboard
 ├── BlinkIT_Dashboard.pbix
 └── README.md
 ````
