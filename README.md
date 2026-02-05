@@ -2,7 +2,7 @@
 
 A visually rich and interactive **Power BI dashboard** built to analyze Blinkit’s sales performance, product distribution, and outlet-level insights. This project focuses on turning raw retail data into actionable business intelligence.
 
-![Blinkit Dashboard](./assets/blinkit-dashboard.png)
+![Blinkit Dashboard](<img width="958" height="599" alt="{B5745979-B4EF-4DF0-AD44-5ACDDA62E688}" src="https://github.com/user-attachments/assets/a7323e21-3180-4bbf-be55-97aad5592776" />)
 
 ---
 
@@ -25,10 +25,6 @@ It is designed to help stakeholders quickly identify sales drivers, high-perform
 - **Total Items:** 2K  
 - **Average Sales:** 141  
 - **Average Rating:** 4  
-
----
-
-<img width="958" height="599" alt="{B5745979-B4EF-4DF0-AD44-5ACDDA62E688}" src="https://github.com/user-attachments/assets/a7323e21-3180-4bbf-be55-97aad5592776" />
 
 ---
 
