@@ -28,7 +28,7 @@ It is designed to help stakeholders quickly identify sales drivers, high-perform
 
 ---
 
-<img width="955" height="597" alt="image" src="https://github.com/user-attachments/assets/4ea36a84-2067-481c-9839-ae6ee6384a9c" />
+<img width="958" height="599" alt="{B5745979-B4EF-4DF0-AD44-5ACDDA62E688}" src="https://github.com/user-attachments/assets/a7323e21-3180-4bbf-be55-97aad5592776" />
 
 ---
 
