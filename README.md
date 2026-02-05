@@ -2,7 +2,9 @@
 
 A visually rich and interactive **Power BI dashboard** built to analyze Blinkit’s sales performance, product distribution, and outlet-level insights. This project focuses on turning raw retail data into actionable business intelligence.
 
-![Blinkit Dashboard](<img width="958" height="599" alt="{B5745979-B4EF-4DF0-AD44-5ACDDA62E688}" src="https://github.com/user-attachments/assets/a7323e21-3180-4bbf-be55-97aad5592776" />)
+---
+
+<img width="958" height="599" alt="{B5745979-B4EF-4DF0-AD44-5ACDDA62E688}" src="https://github.com/user-attachments/assets/a7323e21-3180-4bbf-be55-97aad5592776" />
 
 ---
 
@@ -63,9 +65,7 @@ It is designed to help stakeholders quickly identify sales drivers, high-perform
 ## 📂 Repository Structure
 
 ```text
-├── BlinkIt_Dashboard.pbix
-├── assets/
-│   └── blinkit-dashboard.png
+├── BlinkIT_Dashboard.pbix
 └── README.md
 ````
 
@@ -76,7 +76,7 @@ It is designed to help stakeholders quickly identify sales drivers, high-perform
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/blinkit-powerbi-dashboard.git
+   git clone [https://github.com/your-username/blinkit-powerbi-dashboard.git](https://github.com/raunaqchatterjee20/Power_BI/blob/main/BlinkIT_Dashboard.pbix)
    ```
 2. Open the `.pbix` file using **Power BI Desktop**
 3. Interact with slicers and visuals to explore insights
